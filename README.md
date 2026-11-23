@@ -67,7 +67,6 @@ Both models fail on **unusual edge cases**, not on typical penguins.
 - **Pipeline vs ColumnTransformer:** a `Pipeline` runs steps **one after another** (impute → scale → model); a `ColumnTransformer` runs transformers **side by side** on different column groups.
 - **Column names, not data:** a `ColumnTransformer` needs lists of column **names**, not DataFrames.
 - **Reading error messages** (`too many values to unpack (expected 2)`, `A given column is not a column of the dataframe`) points straight to the bug.
-- **Penguins are easier than the Titanic** because the species really differ in body shape (Gentoo is much heavier, with longer flippers). Titanic survival also depended on chance.
 - **Equal test scores ≠ equal models.** Cross-validation showed KNN generalises better.
 
 ---
