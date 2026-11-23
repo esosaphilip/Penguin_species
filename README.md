@@ -3,7 +3,7 @@
 Mini-project 1b of my AI/ML Engineer training (MSIT, Advanced 1: Machine Learning).
 **Goal:** predict a penguin's species (**Adelie, Chinstrap or Gentoo**) from its body measurements, island and sex.
 
-📓 **View the notebook:** [nbviewer](https://nbviewer.org/github/esosaphilip/Penguin_species/blob/main/ML__penguin_species.ipynb) · [Open in Colab](https://colab.research.google.com/github/esosaphilip/Penguin_species/blob/main/ML__penguin_species.ipynb)
+📓 **View the notebook:** [nbviewer](https://nbviewer.org/github/esosaphilip/Penguin_species/blob/main/penguin_species.ipynb) · [Open in Colab](https://colab.research.google.com/github/esosaphilip/Penguin_species/blob/main/penguin_species.ipynb)
 
 **Type of problem:** multi-class classification (3 classes, supervised learning)
 **Special rule for this project:** built from a **blank notebook, without AI assistants**, as a test of what I can do on my own (only the scikit-learn / pandas documentation and my own notes were allowed).
