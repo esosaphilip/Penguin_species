@@ -74,7 +74,7 @@ Both models fail on **unusual edge cases**, not on typical penguins.
 
 ## ▶️ How to run
 
-1. Open `ML__penguin_species.ipynb` in Google Colab or Jupyter
+1. Open `penguin_species.ipynb` in Google Colab or Jupyter
 2. `pip install -r requirements.txt`
 3. **Runtime → Restart session and run all**
 
